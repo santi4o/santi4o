@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santi4o
-- 👀 I’m interested in cloud computing, microservices, frontend and backend, cibersecurity and data mining.
-- 🌱 I’m currently learning python and Django
-- 💞️ I’m looking to collaborate on web, mobile or desktop applications
+- 👀 I’m interested in full stack web development, cibersecurity and cloud computing.
+- 🌱 I’m currently learning cybersecurity & advanced CSS
+- 💞️ I’m looking to collaborate on web development and cloud computing architecture projects
 - 📫 
 
 <!---
