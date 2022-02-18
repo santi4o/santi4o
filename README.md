@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aldo
 - 👀 I’m interested in full stack web development, cybersecurity and cloud computing.
-- 🌱 I’m currently learning cybersecurity & advanced CSS
+- 🌱 I’m currently learning cybersecurity & CSS
 - 💞️ I’m looking to collaborate on web development and cloud computing architecture projects
 - 📫 
 
