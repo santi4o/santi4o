@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aldo
-- 💪 I have experience in: Cloud computing (GCP), Cybersecurity (AppSec, reconnaissance, sales), Backend, Frontend, Digital Marketing
+- 💪 I have experience in: Cloud computing, Cybersecurity, Frontend & Digital marketing
 - 👀 I’m interested in web development, microservices and cloud computing
-- 🌱 I’m currently learning Laravel, Node.js, and Angular
+- 🌱 I’m currently learning Node.js, Nest.js and Angular
 - 💞️ I’m looking to collaborate on web development & cloud computing projects
