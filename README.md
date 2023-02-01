@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Aldo
 - 💪 I have experience in: Cloud computing, Cybersecurity, Frontend & Digital marketing
 - 👀 I’m interested in web development, microservices and cloud computing
-- 🌱 I’m currently learning Node.js & Nest.js
-- 💞️ I’m looking to collaborate on web development & cloud computing projects
+- 🌱 I’m currently learning Spring
