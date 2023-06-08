@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aldo
-- 💪 I have experience in: Frontend & Digital marketing
+- 💪 I have experience with: Spring, React, Angular, Django
 - 👀 I’m interested in web development, microservices and cloud computing
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Next.js
