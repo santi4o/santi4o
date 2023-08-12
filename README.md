@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aldo
 - 💪 I have experience with: Spring, React, Angular, Django
-- 👀 I’m interested in web development, microservices and cloud computing
-- 🌱 I’m currently learning Next.js
+- 👀 I’m interested in microservices and cloud computing
+- 🌱 I’m currently learning Oracle Cloud Infrastructure
